@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../../components/Layout";
 
 // eslint-disable-next-line
-export default () => (
+export default ThanksPage = () => (
   <Layout>
     <section className="section">
       <div className="container">
